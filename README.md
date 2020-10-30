@@ -1,4 +1,4 @@
-# Ejecuci贸n de las pruebas 鈿欙笍
+# Ejecución de las pruebas 
 
 1. Abrir CMD
 2. Clonar el proyecto con el comando:  
@@ -21,6 +21,6 @@ gradlew clean  build --refresh-dependencies
 
 
 
-# Autor 鉁掞笍
+# Autor
 
 Derly Angel
